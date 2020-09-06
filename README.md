@@ -1,2 +1,3 @@
 # AdditionPackage
-Sample Package - Addition function
+
+A description of this package.
